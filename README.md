@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sevenalarm
 - 👀 I’m interested in Python and front-end web design :-)
-- 🌱 I’m currently learning Bootstrap :P
+- 🌱 I’m currently learning Front-end frameworks :P
 - 💞️ I’m looking to collaborate on idk?
 - 📫 How to reach me? Via email! hosnas.hashemig@gmail.com
 
